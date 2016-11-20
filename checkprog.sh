@@ -1,4 +1,5 @@
 #!/bin/sh
+#execute this script via crontab to make sure your daemons are always up and running
 SERVICE1='/home/pi/Desktop/TasterR.py'
 SERVICE2='/home/pi/Desktop/TasterA.py'
 SERVICE3='/home/pi/Desktop/TasterL.py'
