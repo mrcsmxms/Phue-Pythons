@@ -59,15 +59,3 @@ while True:
             print
             print "beide Lichter an auf %d Prozent in %d Sekunden" % (Brightness, DimTimeON)
         time.sleep(0.2)
-
-
-
-
-
-
-
-
-
-
-
-
