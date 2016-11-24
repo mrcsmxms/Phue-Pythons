@@ -1,5 +1,7 @@
 # Phue-Pythons
-trigger HUE with buttons on raspberry
+trigger HUE with buttons on raspberry<br><br>
+neccessary packges:<br>
+<code> sudo pip install phue </code><br>
 
 These pythons triggers the HUE Bridge with buttons on the RPi.<br><br>
  the L and R file are almost the same. they toggle one lamp each.<br><br>
